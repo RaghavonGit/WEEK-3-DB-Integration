@@ -1,0 +1,6 @@
+*.md
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+hands-on-1.sql
